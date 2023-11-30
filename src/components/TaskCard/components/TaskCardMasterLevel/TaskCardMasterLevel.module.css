@@ -7,8 +7,12 @@
 
 .taskCardMasterLevelText {
   margin-bottom: 7px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--navy-blue-lighter);
 }
 
 .taskCardMasterLevelValue {
+    font-size: 15px;
   font-weight: 700;
 }

@@ -12,7 +12,6 @@ export function Content({prop = 'default value'}: ContentProps) {
   return (
     <main className={styles.content}>
       <ContentHeading />
-
       <TaskCardsList />
     </main>
   );

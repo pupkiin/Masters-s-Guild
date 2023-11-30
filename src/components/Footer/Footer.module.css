@@ -1,0 +1,9 @@
+.footer {
+  padding: 20px 20px 0 20px;
+}
+
+.footerBlock {
+  background-color: var(--gray-light);
+  border-radius: 24px;
+  height: 300px;
+}

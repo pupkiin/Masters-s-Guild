@@ -1,5 +1,5 @@
 import './App.css'
-import { Content, Header } from './components'
+import { Content, Footer, Header } from './components'
 
 function App() {
 
@@ -7,6 +7,7 @@ function App() {
     <>
       <Header />
       <Content />
+      <Footer />
     </>
   )
 }

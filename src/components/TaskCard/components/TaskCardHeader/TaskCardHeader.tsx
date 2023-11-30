@@ -9,7 +9,7 @@ export interface TaskCardHeaderProps {
 export function TaskCardHeader({prop = 'default value'}: TaskCardHeaderProps) {
   return (
     <h3 className={styles.taskCardHeader}>
-      Some Title
+      Some Title for your job
     </h3>
   );
 }

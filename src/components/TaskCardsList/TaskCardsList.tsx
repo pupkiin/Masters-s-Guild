@@ -13,6 +13,9 @@ export function TaskCardsList({prop = 'default value'}: TaskCardsListProps) {
       <TaskCard />
       <TaskCard />
       <TaskCard />
+      <TaskCard />
+      <TaskCard />
+      <TaskCard />
     </ul>
   );
 }
