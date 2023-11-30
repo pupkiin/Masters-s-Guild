@@ -1,0 +1,12 @@
+.headerLogin {
+  
+}
+
+.headerLoginButton {
+  font-weight: 500;
+  transition: color .1s ease-in-out;
+}
+
+.headerLoginButton:hover {
+  color: var(--blue);
+}

@@ -1,0 +1,10 @@
+.taskCard {
+  padding: 25px;
+  margin-bottom: 20px;
+  border: 1px solid var(--grayBorder);
+  border-radius: 24px;
+}
+
+.taskCardCostAndLevel {
+  display: flex;
+}

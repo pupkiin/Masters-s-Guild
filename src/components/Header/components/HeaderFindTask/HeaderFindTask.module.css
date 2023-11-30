@@ -1,0 +1,12 @@
+.headerFindTask {
+  
+}
+
+.headerFindTaskButton {
+  font-weight: 500;
+  transition: color .1s ease-in-out;
+}
+
+.headerFindTaskButton:hover {
+  color: var(--blue);
+}

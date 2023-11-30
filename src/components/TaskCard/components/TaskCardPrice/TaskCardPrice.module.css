@@ -1,0 +1,16 @@
+.taskCardPrice {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  margin-bottom: 16px;
+  margin-right: 70px;
+}
+
+.taskCardPriceText {
+  margin-bottom: 7px;
+}
+
+.taskCardPriceValue {
+  font-weight: 700;
+}
+
